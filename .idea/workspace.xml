@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f488f8f3-9f80-49ce-8ed1-31b517952383" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../django-mama-cas/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/locale/zh_CN/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/locale/zh_CN/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/.coveragerc" afterPath="$PROJECT_DIR$/../django-mama-cas/.coveragerc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/.gitignore" afterPath="$PROJECT_DIR$/../django-mama-cas/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/.travis.yml" afterPath="$PROJECT_DIR$/../django-mama-cas/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/AUTHORS" afterPath="$PROJECT_DIR$/../django-mama-cas/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/LICENSE" afterPath="$PROJECT_DIR$/../django-mama-cas/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/MANIFEST.in" afterPath="$PROJECT_DIR$/../django-mama-cas/MANIFEST.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/README.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/README.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/Makefile" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/changelog.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/changelog.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/conf.py" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/conf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/forms.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/forms.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/index.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/installation.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/installation.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/make.bat" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/make.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/management-commands.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/management-commands.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/protocol.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/protocol.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/security.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/security.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/settings.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/settings.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/docs/templates.rst" afterPath="$PROJECT_DIR$/../django-mama-cas/docs/templates.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/__init__.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/callbacks.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/callbacks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/cas.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/cas.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/compat.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/exceptions.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/forms.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/locale/zh_CN/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/locale/zh_CN/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/management/__init__.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/management/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/management/commands/__init__.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/management/commands/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/management/commands/checkservice.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/management/commands/checkservice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/management/commands/cleanupcas.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/management/commands/cleanupcas.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/migrations/__init__.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/migrations/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/mixins.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/mixins.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/models.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/request.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/response.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/services/__init__.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/services/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/services/backends.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/services/backends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/__base.html" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/__base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/__login.html" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/__login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/__warn.html" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/__warn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/_messages.html" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/_messages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/login.html" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/warn.html" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/templates/mama_cas/warn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/__init__.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/backends.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/backends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/callbacks.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/callbacks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/factories.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/factories.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/settings.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_callbacks.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_callbacks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_commands.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_commands.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_forms.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_models.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_request.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_response.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_services.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_services.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_utils.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_views.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/test_views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/utils.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/tests/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/urls.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/utils.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/mama_cas/views.py" afterPath="$PROJECT_DIR$/../django-mama-cas/mama_cas/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/pytest.ini" afterPath="$PROJECT_DIR$/../django-mama-cas/pytest.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/requirements.txt" afterPath="$PROJECT_DIR$/../django-mama-cas/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/setup.cfg" afterPath="$PROJECT_DIR$/../django-mama-cas/setup.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/setup.py" afterPath="$PROJECT_DIR$/../django-mama-cas/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-mama-cas/tox.ini" afterPath="$PROJECT_DIR$/../django-mama-cas/tox.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/.coveragerc" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/.coveragerc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/.gitignore" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/.travis.yml" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/AUTHORS" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/CONTRIBUTING.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/CONTRIBUTING.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/LICENSE" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/MANIFEST.in" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/MANIFEST.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/README.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/README.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/Makefile" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/advanced_topics.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/advanced_topics.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/changelog.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/changelog.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/conf.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/conf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/contributing.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/contributing.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/glossary.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/glossary.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/index.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/install.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/install.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/management_commands.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/management_commands.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/models.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/models.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/rest-framework/getting_started.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/rest-framework/getting_started.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/rest-framework/permissions.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/rest-framework/permissions.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/rest-framework/rest-framework.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/rest-framework/rest-framework.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/rfc.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/rfc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/settings.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/settings.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial_01.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial_01.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial_02.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial_02.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial_03.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial_03.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial_04.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/tutorial/tutorial_04.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/application.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/application.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/class_based.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/class_based.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/details.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/details.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/function_based.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/function_based.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/mixins.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/mixins.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/token.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/token.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/views.rst" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/docs/views/views.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/admin.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/apps.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/apps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/backends.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/backends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/compat.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/compat_handlers.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/compat_handlers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/decorators.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/decorators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/exceptions.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/ext/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/ext/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/ext/rest_framework/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/ext/rest_framework/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/ext/rest_framework/authentication.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/ext/rest_framework/authentication.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/ext/rest_framework/permissions.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/ext/rest_framework/permissions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/forms.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/generators.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/generators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/http.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/http.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/management/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/management/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/management/commands/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/management/commands/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/management/commands/cleartokens.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/management/commands/cleartokens.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/middleware.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/middleware.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/migrations/0002_08_updates.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/migrations/0002_08_updates.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/migrations/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/migrations/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/models.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/oauth2_backends.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/oauth2_backends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/oauth2_validators.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/oauth2_validators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/settings.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/south_migrations/0001_initial.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/south_migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/south_migrations/0002_adding_indexes.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/south_migrations/0002_adding_indexes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/south_migrations/0003_auto__add_field_application_skip_authorization__chg_field_accesstoken_.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/south_migrations/0003_auto__add_field_application_skip_authorization__chg_field_accesstoken_.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/south_migrations/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/south_migrations/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/404.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_confirm_delete.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_confirm_delete.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_detail.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_form.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_list.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_registration_form.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/application_registration_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/authorize.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/authorize.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/authorized-token-delete.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/authorized-token-delete.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/authorized-tokens.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/authorized-tokens.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/base.html" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templates/oauth2_provider/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templatetags/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templatetags/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templatetags/compat.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/templatetags/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/models.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/settings.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_application_views.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_application_views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_auth_backends.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_auth_backends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_authorization_code.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_authorization_code.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_client_credential.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_client_credential.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_decorators.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_decorators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_generator.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_generator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_implicit.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_implicit.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_mixins.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_mixins.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_models.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_oauth2_backends.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_oauth2_backends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_oauth2_validators.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_oauth2_validators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_password.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_password.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_rest_framework.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_rest_framework.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_scopes.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_scopes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_token_revocation.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_token_revocation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_token_view.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_token_view.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_utils.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_validators.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/test_validators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/urls.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/tests/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/urls.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/validators.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/validators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/__init__.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/application.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/application.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/base.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/generic.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/generic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/mixins.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/mixins.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/token.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/oauth2_provider/views/token.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/requirements/base.txt" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/requirements/base.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/requirements/optional.txt" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/requirements/optional.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/requirements/project.txt" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/requirements/project.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/requirements/testing.txt" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/requirements/testing.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/setup.py" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../django-oauth-toolkit/tox.ini" afterPath="$PROJECT_DIR$/../django-oauth-toolkit/tox.ini" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="帮助文档.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/帮助文档.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="240">
+                <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="131" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/suc/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <element signature="e#637#678#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/suc/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/suc/views.py" />
+        <option value="$PROJECT_DIR$/suc/callback.py" />
+        <option value="$PROJECT_DIR$/suc/settings.py" />
+        <option value="$PROJECT_DIR$/suc/urls.py" />
+        <option value="$PROJECT_DIR$/docs/帮助文档.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1280" />
+    <option name="height" value="713" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../soft/node-v5.5.0-linux-x64/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="$PROJECT_DIR$/../../soft/node-v5.5.0-linux-x64/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django-oauth-toolkit" />
+  </component>
+  <component name="RunManager" selected="Django server.suc">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="suc" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="suc" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="suc.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="suc" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.suc" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f488f8f3-9f80-49ce-8ed1-31b517952383" name="Default" comment="" />
+      <created>1480231235679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480231235679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1280" height="713" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16720779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3306189" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5681818" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3306189" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5681818" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16720779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/帮助文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2928">
+          <caret line="122" column="22" lean-forward="true" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/帮助文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/callback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/帮助文档.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="135" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/callback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/callback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/mama_cas/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#637#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suc/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/帮助文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="131" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="81" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

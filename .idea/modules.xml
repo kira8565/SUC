@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../django-mama-cas/.idea/django-mama-cas.iml" filepath="$PROJECT_DIR$/../django-mama-cas/.idea/django-mama-cas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django-oauth-toolkit/.idea/django-oauth-toolkit.iml" filepath="$PROJECT_DIR$/../django-oauth-toolkit/.idea/django-oauth-toolkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/suc.iml" filepath="$PROJECT_DIR$/.idea/suc.iml" />
+    </modules>
+  </component>
+</project>
